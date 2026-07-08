@@ -1,0 +1,8 @@
+{
+  "name": "PC Parts Builder",
+  "description": "An interactive PC building configurator and compatibility planner with automated load checks, budget estimators, and live Gemini AI hardware consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
