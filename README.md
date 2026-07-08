@@ -10,9 +10,11 @@ View your app in AI Studio: https://ai.studio/apps/ed724c5c-69a4-49ce-aedf-2082f
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  The app
 
-1. Download: [Uploading PC-Parts-Builder-main.rar…]()
+
+
+1. Download as zip file
 2. Run the app by going to "dist-app" folder and clicking "**PCPartsBuilder.exe**"
 
 # Have fun!
