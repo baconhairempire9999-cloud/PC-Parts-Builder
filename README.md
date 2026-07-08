@@ -12,10 +12,8 @@ View your app in AI Studio: https://ai.studio/apps/ed724c5c-69a4-49ce-aedf-2082f
 
 **Prerequisites:**  Node.js
 
+1. Download: [Uploading PC-Parts-Builder-main.rar…]()
+2. Run the app by going to "dist-app" folder and clicking "**PCPartsBuilder.exe**"
 
-1. Install dependencies:
-2. Download [PC-Parts-Builder-main.zip](https://github.com/user-attachments/files/29804091/PC-Parts-Builder-main.zip)
-3. Make sure you have Node.js installed get it Here --> https://www.nodejs.org/en
-4. `npm install`
-5. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-6. Run the app: Open command prompt and type `npm run dev`
+# Have fun!
+ 
